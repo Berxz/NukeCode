@@ -2,6 +2,5 @@
 <item>
     <version>2.5</version>
     <url>https://github.com/Berxz/NukeCode/blob/main/NukeCodes.exe</url>
-    <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
-    <mandatory>false</mandatory>
+    <mandatory>true</mandatory>
 </item>
